@@ -16,16 +16,7 @@
     position: relative;
 }
 .nav__notification{
-    background-color: tomato;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 22px;
-    height: 22px;
-    border-radius: 11px;
     position: absolute;
-    color:white;
-    font-weight: 600px;
     left:20px;
     bottom: 17px;
 }
@@ -37,4 +28,14 @@
     border-radius: 3px;
     position:absolute;
     left:35px;
+}
+.nav__dot-clone{
+    background-color: tomato;
+    position: absolute;
+    display: flex;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    left: 22px;
+    bottom:18px
 }
