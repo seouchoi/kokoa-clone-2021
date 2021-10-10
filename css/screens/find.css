@@ -1,16 +1,4 @@
-.find-icons{
-    display: flex;
-    justify-content: space-between;
-}
-.find-icons__icon{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.find-icons__icon i{
-    font-size: 35px;
-    margin-bottom: 15px;
-}
+
 .recommended-friends{
     border-bottom: var(--border-val);
     border-top: var(--border-val);
